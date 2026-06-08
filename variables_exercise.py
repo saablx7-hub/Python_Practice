@@ -1,4 +1,4 @@
-""" #2. Area of Rectangle: A = length * breadth
+ #2. Area of Rectangle: A = length * breadth
 len=float(input('ENTER LENGTH :'))
 breadth=float(input('ENTER BREADTH :'))
 area_of_rec=len*breadth
@@ -12,7 +12,7 @@ print(f"Area of Rectangle : {area_of_rec}")
 r=float(input('ENTER RATE OF % :'))
 t=float(input('ENTER TIME :'))
 simple_interest=(p*r*t)/100
-print(f"Simple Interest : {simple_interest}") """ """
+print(f"Simple Interest : {simple_interest}")
 
 #3. Perimeter of Rectangle: 2 * (length + breadth)
 len=float(input('ENTER LENGTH :'))
@@ -67,7 +67,7 @@ print(f'Compound Interest = {A}')
 Weight=float(input('Enter Weight : '))
 Height=float(input('Enter Height :'))
 BMI = Weight / (Height*Height)
-print(f'BMI : {BMI}') """
+print(f'BMI : {BMI}') 
 
 #13. Total Salary = Basic + HRA(20%) + DA(40%)
 b=float(input('ENTER BASIC SALARY : '))
